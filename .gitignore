@@ -10,3 +10,8 @@ __pycache__/
 input.txt
 env/
 venv/
+# local virtualenv (uv self-ignores, but be explicit)
+.venv/
+
+# training run outputs
+out-*/

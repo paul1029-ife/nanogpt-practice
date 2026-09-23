@@ -1,0 +1,82 @@
+Overriding: out_dir = out-shakespeare-char-cpu
+Overriding: device = cpu
+Overriding: dtype = float32
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 600
+Overriding: seed = 1337
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Third, mitter should father's or name.
+
+BRUTUS:
+Unle speak, therefore my faulter: thy turn fire wood;
+And before for of their own him action.
+
+RICHARD:
+I wherefore March off the time with all not to stee.
+
+Thirst Musbary
+To heart the kight to I say, but your heart
+his armone not ange with the liddland to this:
+Their humble of their black.
+
+MERCUSIon:
+My grace
+To see our heand to tenst them a did off?
+
+GLOUCESTER:
+I would speak.
+
+POMERLANA:
+My many togeth Goddiner,
+Our Certich as your will state the wast to to both.
+No, say, but that was this law my thanks,
+And than they stater honours in the t
+---------------
+
+
+First Compander:
+I heart a baccester of bloods
+Entime a pooral: to but him lore
+naming the truth in than they should thy smale;
+Evency, in amping act them rabing, and latter in
+of her were a seven your pleason?
+For me liesty shall ne'en hear allow,
+And they envicenty in thee him.
+
+HENRY BOLINGBROKE:
+I am thou makest forth made: but see helver so.
+
+CAMINIUS:
+The hath you quired and mock,
+And my holming and deampers him for whilTus.
+
+HENRY BOLINGBROKE:
+Away, made my hearth me heart,
+And us thy so footh man, even sint we hath valp.
+
+LADY ANNE:
+May, here, stay
+Doth face your born: the wife armore
+---------------
+
+To hear mend it, thou will queen of were his from,
+By he and villain my beggar.
+
+LORTHUMBERSI:
+I warlly, thousant, sir; my is be fellow may
+that abour that, I have us too the strength take.
+And now agay all my arms, then with her ever
+So in the shall confiting arms varking,
+And merre gonest your so the bear whom come for I
+Murdambour, thou art sorrowed and, then four dids
+And friend our his?
+
+ROMEO:
+Why, thy may must not from doth Lord will be;
+Hath noble blood, brother me, there married her
+Survostions, but he will nome to be the need:
+be you, and what thise not make do by lords,
+Where there 
+---------------
