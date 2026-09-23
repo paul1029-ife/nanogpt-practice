@@ -1,6 +1,11 @@
 
 # nanoGPT
 
+> **Fork note.** This is a fork of [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT);
+> everything below is his. My own work is [`SETUP.md`](SETUP.md) (notes on getting this to
+> train on a CPU-only Intel Mac) and [`config/train_shakespeare_char_cpu.py`](config/train_shakespeare_char_cpu.py),
+> plus the output of that run in [`train.log`](train.log) and [`samples.txt`](samples.txt).
+
 ![nanoGPT](assets/nanogpt.jpg)
 
 
